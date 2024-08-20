@@ -38,7 +38,7 @@ namespace AGSOY
             this.Controls.Add(btnBackToForm1);
             btnBackToForm1.Location = new Point(304, 403);
             btnBackToForm1.Size = new Size(173, 63);
-            btnBackToForm1.Text = "Log Out";
+            btnBackToForm1.Text = "Form 1";
             btnBackToForm1.Click += BtnBackToForm1_Click;
 
             this.Height = 630;
