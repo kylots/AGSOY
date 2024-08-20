@@ -116,7 +116,7 @@ namespace AGSOY
             this.Controls.Add(btnStart);
             btnStart.Location = new Point(304, 403);
             btnStart.Size = new Size(173, 63);
-            btnStart.Text = "START";
+            btnStart.Text = "Go!!!";
 
             this.Height = 630;
             this.Width = 780;
